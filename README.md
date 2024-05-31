@@ -47,4 +47,4 @@ This project is shared under Bohemia Interactive's APL-SA license. For more deta
 
 ## Feedback and Support
 
-For questions, suggestions, or support, please visit the [Steam Community page](https://steamcommunity.com/sharedfiles/filedetails/?id=2488144867) or the [Bohemia Interactive Forums](https://forums.bohemia.net/forums/topic/235244-release-simple-progression-system-for-arma-3/).
+For questions, suggestions, or support, please visit the [Steam Community page](https://steamcommunity.com/sharedfiles/filedetails/?id=2508739277).
